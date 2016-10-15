@@ -1,1 +1,2 @@
-test
+Build Commit:abc
+Build time:2016-10-15 15:35:52
