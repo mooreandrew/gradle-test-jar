@@ -1,0 +1,5 @@
+Build time: 2017-11-05 10:38:52
+Source Code Commit Type: tag
+Source Code tag: 2.5.0
+Source Code Commit: 33c8be246ef33bea6162c53feec5597b8726f416 (33c8be246ef33bea6162c53feec5597b8726f416)
+Source Code Repository: https://github.com/mooreandrew/gradle-test.git
