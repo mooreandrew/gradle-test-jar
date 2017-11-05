@@ -1,3 +1,0 @@
---- --- --- Build Commit: 5895286c87c1c96c8bb409c8454cd675524424b4
-Build time: 2016-10-16 12:36:14
-Source Code Repository: https://github.com/mooreandrew/gradle-test.git
