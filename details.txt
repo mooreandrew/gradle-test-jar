@@ -1,0 +1,5 @@
+Build time: 2017-11-05 10:36:07
+Source Code Commit Type: branch
+Source Code branch: master
+Source Code Commit: c95be749fb258f2d265f5637b25c25c6e5d4395b (c95be749fb258f2d265f5637b25c25c6e5d4395b)
+Source Code Repository: https://github.com/mooreandrew/gradle-test.git
